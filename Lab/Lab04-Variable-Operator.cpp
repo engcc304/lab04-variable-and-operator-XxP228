@@ -34,7 +34,7 @@ int main() {
     scanf("%s", &Employees_ID);
 
     printf("Please Enter working hour : ");
-    scanf("%f",work_hr);
+    scanf("%f", &work_hr);
 
     printf("Please Enter salary : ");
     scanf("%f", &salary );
